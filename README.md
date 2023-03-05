@@ -1,3 +1,3 @@
-# FEM: results-summary-component-solution
+# FEM: stats-preview-card-component-solution
 
-Solution for the Frontend Mentor results-summary-component
+Solution for the Frontend Mentor stats-preview-card-component
